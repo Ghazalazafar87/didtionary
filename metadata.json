@@ -1,0 +1,6 @@
+{
+  "name": "StudyPop Pakistan - Aesthetic Student Stationery Boutique",
+  "description": "Discover cute, aesthetic, and functional stationery designed for Pakistani students. Free delivery over Rs. 2,500, Cash on Delivery, JazzCash & Easypaisa across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
